@@ -1,0 +1,23 @@
+Closer Current Context
+======================
+
+Active requirement:
+- 0001-scene-driven-0-to-1
+
+Requirement:
+- docs/requirements/0001-scene-driven-0-to-1.md
+
+Design:
+- docs/designs/0001-scene-driven-0-to-1.md
+
+Active spec:
+- docs/specs/0001-scene-driven-0-to-1-phase-1.md
+
+Status:
+- design drafted, spec scoping pending
+
+Current shipped capability:
+- Project Signals section added to the shared Obsidian journal template
+
+Last updated:
+- 2026-04-24

@@ -1,0 +1,9 @@
+{
+  "active_requirement": "0001-scene-driven-0-to-1",
+  "requirement_path": "docs/requirements/0001-scene-driven-0-to-1.md",
+  "design_path": "docs/designs/0001-scene-driven-0-to-1.md",
+  "spec_path": "docs/specs/0001-scene-driven-0-to-1-phase-1.md",
+  "status": "design drafted, spec scoping pending",
+  "current_capability": "Project Signals section added to the shared Obsidian journal template",
+  "updated_at": "2026-04-24"
+}
